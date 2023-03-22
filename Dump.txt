@@ -1,1 +1,5 @@
 tool-on
+#tool-off
+#tool-update
+#tool-error
+#server-on
